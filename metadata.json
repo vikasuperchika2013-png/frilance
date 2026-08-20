@@ -1,0 +1,6 @@
+{
+  "name": "Финансовый помощник",
+  "description": "Современное приложение для управления личными финансами, доходами, расходами, копилками, подушкой безопасности, кредитами, аналитикой и голосовым вводом.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

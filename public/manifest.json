@@ -1,0 +1,18 @@
+{
+  "name": "Финансовый помощник",
+  "short_name": "ФинПомощник",
+  "description": "Современное приложение для управления личными финансами, доходами, расходами, копилками и кредитами",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
